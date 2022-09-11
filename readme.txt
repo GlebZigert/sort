@@ -1,0 +1,1 @@
+g++ sort.cpp get_ar.cpp -o sort -lstdc++
